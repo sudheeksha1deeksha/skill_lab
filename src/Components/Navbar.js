@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
         <Link className="navbar-brand" to="/">
-          <img src="https://st2.depositphotos.com/1378583/5228/v/600/depositphotos_52283153-stock-illustration-hand-book-logo.jpg" alt="Logo" className="navbar-logo" />
+          <img src="https://tse1.mm.bing.net/th?id=OIP.ZeyTeVRtIV3zzq4_mSkTMgHaF7&pid=Api&P=0&h=180" alt="Logo" className="navbar-logo" />
         </Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> {/* Update the data attributes */}
           <span className="navbar-toggler-icon"></span>

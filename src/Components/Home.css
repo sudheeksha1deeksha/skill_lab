@@ -1,5 +1,5 @@
 .home-container {
-  background-image: url("https://img.pikbest.com/backgrounds/20200513/creative-synthesis-education-background_2755178.jpg!bw700");
+  background-image: url("https://wallpapercave.com/wp/wp3191443.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -7,20 +7,20 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color:black;
+  color:rgb(155, 125, 155);
   padding: 20px;
 }
 
 .text-primary {
-  color: #007bff;
+  color: #6d55b5;
 }
 
 .text-secondary {
-  color: #6c757d;
+  color: #e6189a;
 }
 
 .text-info {
-  color: #17a2b8;
+  color: #46e15a;
 }
 
 .list-unstyled {
@@ -29,5 +29,5 @@
 }
 
 .text-success {
-  color: #28a745;
+  color: #dd6a0c;
 }

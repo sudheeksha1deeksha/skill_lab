@@ -49,7 +49,7 @@ const Contact = () => {
 
       {showDialog && (
         <div className="alert alert-success mt-3" role="alert">
-          We'll reach you out soon!
+          We will reach you out soon!
         </div>
       )}
     </div>

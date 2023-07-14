@@ -4,34 +4,35 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Courses = () => {
   const courses = [
     {
-      name: 'C++',
-      image: 'https://www.analyticsinsight.net/wp-content/uploads/2022/03/bh1-1024x725-1.jpg',
-      wikiLink: 'https://en.wikipedia.org/wiki/C%2B%2B',
+      name: 'R',
+      image: 'https://tse2.mm.bing.net/th?id=OIP.CBQbwDeel0-rNGwfAwWn6wHaEa&pid=Api&P=0&h=180',
+      wikiLink: 'https://en.wikipedia.org/wiki/R_(programming_language)',
     },
     {
       name: 'C',
-      image: 'https://contentstatic.techgig.com/photo/90325682.cms',
-      wikiLink: 'https://en.wikipedia.org/wiki/C_(programming_language)',
+      image: 'https://tse4.mm.bing.net/th?id=OIP.0D9zGIQXQEIZFYD9tpRXgQAAAA&pid=Api&P=0&h=180',
+      wikiLink: 'https://www.guru99.com/c-programming-language.html',
     },
     {
       name: 'Python',
-      image: 'https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png',
-      wikiLink: 'https://en.wikipedia.org/wiki/Python_(programming_language)',
+      image: 'https://tse2.mm.bing.net/th?id=OIP.146KT0gacYdSQBkPBLYCSAHaFU&pid=Api&P=0&h=180',
+      wikiLink: 'https://www.geeksforgeeks.org/introduction-to-python/',
     },
     {
-      name: 'Java',
-      image: 'https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png',
-      wikiLink: 'https://en.wikipedia.org/wiki/Java_(programming_language)',
+      name: 'C++',
+      image: 'https://tse1.mm.bing.net/th?id=OIP.DscoqNeDks-BqP83UoHjPgHaEK&pid=Api&P=0&h=180',
+      wikiLink: 'https://en.wikipedia.org/wiki/C%2B%2B',
     },
     {
       name: 'SQL',
-      image: 'https://e7.pngegg.com/pngimages/134/190/png-clipart-sql-logo-microsoft-sql-server-mysql-database-logo-others-blue-text-thumbnail.png',
-      wikiLink: 'https://en.wikipedia.org/wiki/SQL',
+      image: 'https://www.harrisburgu.edu/wp-content/uploads/sql-for-analytics-course-main.jpg',
+      wikiLink: 'https://www.w3schools.com/sql/sql_intro.asp',
     },
     {
-      name: 'HTML',
-      image: 'https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png',
-      wikiLink: 'https://en.wikipedia.org/wiki/HTML',
+      name: 'Ruby',
+      image: 'https://tse4.mm.bing.net/th?id=OIP.P6StsD5U9kIBK7W8vUDziAHaD1&pid=Api&P=0&h=180',
+      wikiLink: 'https://en.wikipedia.org/wiki/Ruby_(programming_language)',
+      price:"$500",
     },
   ];
 

@@ -11,9 +11,9 @@ const About = () => {
           <h3 className="text-info">Our Mission</h3>
           <p>
             Our mission is to provide high-quality education accessible to everyone, 
-            empowering individuals to achieve their full potential and pursue their dreams. 
-            We strive to deliver innovative and engaging learning experiences that foster 
-            intellectual growth, critical thinking, and lifelong learning skills.
+            empowering individual to achieve their goals and pursue their dreams,
+            with all the potentials and skills that is required for their jobs,
+            and their intellactual growth  with affordable  cost.
           </p>
         </div>
 
@@ -30,19 +30,17 @@ const About = () => {
       </div>
 
       <button className="btn btn-primary mt-4" type="button" data-toggle="collapse" data-target="#collapseDetails" aria-expanded="false" aria-controls="collapseDetails">
-        More Details
+        Further Details
       </button>
 
       <div className="collapse mt-3" id="collapseDetails">
         <div className="card card-body bg-light">
           <h3 className="text-info">Additional Details</h3>
           <p>
-            Our commitment to excellence drives us to collaborate with top educators and industry experts,
-            ensuring that our courses are relevant, up-to-date, and aligned with the needs of learners and 
-            the demands of the job market. We believe in fostering a supportive and inclusive learning 
-            community, where students can connect, collaborate, and grow together. Through cutting-edge 
-            technology and innovative pedagogy, we aim to transform education and empower learners to 
-            thrive in a rapidly changing world.
+          The vision of educational apps is to revolutionize the way we learn and acquire knowledge by leveraging the power of technology and mobile devices,
+           Here are some key aspects of the vision for educational apps,
+           accessibility,personalization,engagement,interactivity and coolabration,
+           multimodal learning,lifelong learning,feedback and assessment.
           </p>
         </div>
       </div>
